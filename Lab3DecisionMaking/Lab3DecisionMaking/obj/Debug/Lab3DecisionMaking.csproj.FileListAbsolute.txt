@@ -1,0 +1,7 @@
+C:\Users\lexas\OneDrive\Desktop\C#\Lab3DecisionMaking\Lab3DecisionMaking\bin\Debug\Lab3DecisionMaking.exe.config
+C:\Users\lexas\OneDrive\Desktop\C#\Lab3DecisionMaking\Lab3DecisionMaking\bin\Debug\Lab3DecisionMaking.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Lab3DecisionMaking\Lab3DecisionMaking\bin\Debug\Lab3DecisionMaking.pdb
+C:\Users\lexas\OneDrive\Desktop\C#\Lab3DecisionMaking\Lab3DecisionMaking\obj\Debug\Lab3DecisionMaking.csprojAssemblyReference.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Lab3DecisionMaking\Lab3DecisionMaking\obj\Debug\Lab3DecisionMaking.csproj.CoreCompileInputs.cache
+C:\Users\lexas\OneDrive\Desktop\C#\Lab3DecisionMaking\Lab3DecisionMaking\obj\Debug\Lab3DecisionMaking.exe
+C:\Users\lexas\OneDrive\Desktop\C#\Lab3DecisionMaking\Lab3DecisionMaking\obj\Debug\Lab3DecisionMaking.pdb
